@@ -4,24 +4,19 @@
 h1{
   font-size: 45px;
 }
-
 body{
   font-family: helvetica;
   background-color: black;
   color: white;
 }
-
-
 img {
   width: 25vw;
   margin: 20px;
 }
-
 form{
   margin-left: 20px;
   font-size: 3vw;
 }
-
 #top h1{
   color:rgb(255,200,255);
   border: solid .5px white;
